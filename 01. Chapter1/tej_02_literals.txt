@@ -1,0 +1,15 @@
+package com.company;
+
+public class tej_02_literals {
+    public static void main(String[] args) {
+        byte age = 20;
+        char ch = 'S';
+        float f1 = 5.56f;
+        double d1 = 4.660D;
+        long ageSiya = 5600000000l;
+        boolean a = true;
+        String str = "Tejas is The Best Programmer";
+        System.out.println(age);
+        System.out.println(str);
+    }
+}
